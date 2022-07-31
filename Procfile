@@ -1,1 +1,1 @@
-bot: python main.py
+test1: python main.py
